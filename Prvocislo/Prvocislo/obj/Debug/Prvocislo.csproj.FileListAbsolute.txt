@@ -1,0 +1,11 @@
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\bin\Debug\Prvocislo.exe.config
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\bin\Debug\Prvocislo.exe
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\bin\Debug\Prvocislo.pdb
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.AssemblyReference.cache
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.SuggestedBindingRedirects.cache
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.Form1.resources
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.Properties.Resources.resources
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.exe
+G:\Dokumenty\Csharp\Prvocislo\Prvocislo\obj\Debug\Prvocislo.pdb
